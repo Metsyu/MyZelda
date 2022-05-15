@@ -1,6 +1,8 @@
 # MyZelda
 A Zelda inspired game, originally developed in Java, then ported to JavaScript, then to Python.
 
+Each iteration has been uploaded onto its own branch.
+
 The game controls are as follows: Arrow keys to move, 'CTRL' to throw daggers.
 
 In the Java version, an edit mode is also included, to toggle on edit mode use the 'E' key.
